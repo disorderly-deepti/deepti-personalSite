@@ -159,7 +159,7 @@ ul{
     padding-left: 20px;
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1200px) {
     .contacts{
         flex-direction: column;
         justify-content: center;
